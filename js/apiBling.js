@@ -2,7 +2,7 @@
 const apiKey = '3db918f4aa5480eeba80d7bf7814f0b2bc2896fb15ecf267729cf2b435fc180ee7804483';
 
 // Domínio do GitHub Pages usado como proxy
-const proxyURL = 'https://leandroespindula.github.io';
+const proxyURL = 'https://leandroespindula.github.io/web-estoque';
 
 // Exemplo de função para buscar um produto na API do Bling pelo código do item
 function getProdutoPorCodigoItem(codigoItem) {
